@@ -16,7 +16,7 @@
     ],
     "require": {
         "php": ">=5.3.2",
-        "symfony": ">3.0"
+        "symfony/symfony": ">3.0"
     },
     "suggest": {
         "sonata-project/admin-bundle": "master-dev",
